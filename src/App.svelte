@@ -1,5 +1,5 @@
 <script lang="ts">
-  import PractitionerLaunch from "./lib/PractitionerLaunch.svelte";
+  import PractitionerLaunch from "./lib/PractitionerLaunch_Copy3.svelte";
 </script>
 
 <div class="bg-base-layer h-screen w-screen relative">
